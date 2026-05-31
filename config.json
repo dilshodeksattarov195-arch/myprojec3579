@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordalidate",
+        "uuid": 11334693,
+        "checksum": "iklh8f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
